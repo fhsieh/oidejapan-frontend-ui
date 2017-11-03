@@ -9,7 +9,7 @@ Platform requires three separate interfaces for admin, business, and tourist use
 
 ### Admin
 
-![oidejapan-frontend-ui-admin](https://user-images.githubusercontent.com/9514732/32373562-32523ba4-c0dd-11e7-8607-be7da043b478.png)
+![Admin UI](https://user-images.githubusercontent.com/9514732/32373562-32523ba4-c0dd-11e7-8607-be7da043b478.png)
 
 UI for internal back-office management, used to manage business accounts/users, tourist-facing site, and platform settings. Dark interface for clean separation from business and tourist interfaces.
 
@@ -28,7 +28,7 @@ Components/views:
 
 ### Business
 
-![oidejapan-frontend-ui-business](https://user-images.githubusercontent.com/9514732/32373564-327cf4c0-c0dd-11e7-9328-3f5475abe9af.png)
+![Business UI](https://user-images.githubusercontent.com/9514732/32373564-327cf4c0-c0dd-11e7-9328-3f5475abe9af.png)
 
 UI for business role users to manage business profile, images, information, products, and other business data. Medium-tone interface for ease of use and distinction from tourist interface.
 
@@ -47,7 +47,7 @@ Components/views:
 
 ### Tourist
 
-![oidejapan-frontend-ui-tourist](https://user-images.githubusercontent.com/9514732/32373565-32a50582-c0dd-11e7-9306-29c6a22f0a76.png)
+![Tourist UI](https://user-images.githubusercontent.com/9514732/32373565-32a50582-c0dd-11e7-9306-29c6a22f0a76.png)
 
 UI for tourist role users to search for business information and browse and purchase business products. Bright interface to complement high amount of visual content.
 
